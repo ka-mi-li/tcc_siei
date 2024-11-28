@@ -1,3 +1,5 @@
+Kamili Casagrande Bozello e Laura Rocha de Matos
+
 SISTEMA INTEGRADOR DE EDUCAÇÃO INFANTIL - SIEI
 - O Sistema Integrador de Educação Infantil tem como premissa básica a integração das
 funções que as escolas de educação infantil precisam utilizar hoje em dia. As creches
